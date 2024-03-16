@@ -3,5 +3,5 @@
 # Texture Systhesis Images
 Library with useful images for applying image synthesis techniques.
 
-### Autor
+### Author
 * Felipe Pinto da Silva
